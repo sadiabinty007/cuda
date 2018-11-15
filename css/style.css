@@ -1,0 +1,294 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.custom-btn{
+    background: #EB7D4B;
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px 40px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.heading h1{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.heading span{
+    width: 100px;
+    height: 5px;
+    background: #1f8e7a;
+    display: block;
+    margin: 10px auto;
+}
+.heading p{
+    font-size: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.col-4{
+    width: 25%;
+    float: left;
+    padding: 0 15px;
+}
+
+/****** 1st header section *******/
+.header-section{
+    background: #87509c;
+    padding-top: 20px;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+nav ul li a{
+    color: #fff;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 5px 10px;
+    display: block;
+    border-radius: 5px;
+}
+nav ul li a:hover{
+    background: #643A79;
+}
+.banner-content{
+    color: #fff;
+    padding: 150px;
+    text-align: center;
+}
+.banner-content p{
+    font-size: 40px;
+}
+.banner-content a{
+    background: #EB7D4B;
+    border-bottom: 5px solid #c1653a;
+    margin-top: 30px;
+}
+/****** 1st header section end *******/
+
+
+/******* 2nd service section ******/
+
+.services-section{
+
+}
+.service-section .heading{}
+.service{
+    text-align: center;
+    margin: 0 auto;
+}
+.service h2{
+    margin: 40px 0 15px;
+}
+.service img{}
+.service p{
+    font-size: 20px;
+}
+
+
+
+
+
+/******* 2nd service section ******/*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.custom-btn{
+    background: #EB7D4B;
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10px 40px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.heading h1{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #515c73;
+}
+.heading span{
+    width: 100px;
+    height: 5px;
+    background: #1f8e7a;
+    display: block;
+    margin: 10px auto;
+}
+.heading p{
+    font-size: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+    color: #6e788b;
+}
+.col-4{
+    width: 25%;
+    float: left;
+    padding: 0 15px;
+    text-align: center;
+}
+
+/****** 1st header section *******/
+.header-section{
+    background: #87509c;
+    padding-top: 20px;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+nav ul li a{
+    color: #fff;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 5px 10px;
+    display: block;
+    border-radius: 5px;
+}
+nav ul li a:hover{
+    background: #643A79;
+}
+.banner-content{
+    color: #fff;
+    padding: 150px;
+    text-align: center;
+}
+.banner-content p{
+    font-size: 40px;
+}
+.banner-content a{
+    background: #EB7D4B;
+    border-bottom: 5px solid #c1653a;
+    margin-top: 30px;
+}
+/****** 1st header section end *******/
+
+
+/******* 2nd service section ******/
+
+.services-section{
+
+background: #17c2a4;
+}
+.service-section .heading{}
+.service{
+    text-align: center;
+    margin: 0 auto;
+}
+.service h2{
+    margin: 40px 0 15px;
+    color: white;
+}
+.service img{}
+.service p{
+    font-size: 20px;
+    color: white;
+}
+
+
+/******* 2nd service section ******/
+/******* 3rd team section *******/
+.team-section{
+    background: #e7f1f8;
+}
+.team-section .heading{}
+.team-section .heading span{}
+.team{}
+.team h1{}
+.team h2{
+    padding: 30px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.team p{
+    padding: 20px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.team span{
+    color: #30bae5;
+    font-size: 16px;
+}
+.team img{
+    width: 150px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******* 3rd team section end *******/
